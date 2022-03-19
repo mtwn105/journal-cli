@@ -1,6 +1,6 @@
 {
   "name": "journal-notion-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Write Journal to your Notion using CLI",
   "main": "index.js",
   "type": "module",

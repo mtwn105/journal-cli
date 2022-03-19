@@ -14,9 +14,11 @@ Start using by `journal connect`
 
 Help Command `journal --help`
 
-### Copy this notion template to your notion
+### Duplicate this page to your notion
 
-[https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d](https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d)
+[https://amit-wani.notion.site/amit-wani/Journal-a19377f6b17d47768e03d4ffe62a030d](https://amit-wani.notion.site/amit-wani/Journal-a19377f6b17d47768e03d4ffe62a030d)
+
+![image](https://user-images.githubusercontent.com/12975481/159122439-d5a9aa76-0648-441d-8376-ab9262108b38.png)
 
 ### Connect to notion `journal connect`
 
