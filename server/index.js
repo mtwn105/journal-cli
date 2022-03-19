@@ -42,9 +42,7 @@ app.get("/auth/notion/callback", async (req, res) => {
     // Send the response
 
     // Set cookies
-    res.cookie("access_token", data.access_token, {
-      maxAge: data.expires_in * 1000,
-    });
+    res.cookie("access_token", data.access_token);
 
     return res.redirect("/");
   } catch (error) {
