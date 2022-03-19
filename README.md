@@ -1,3 +1,27 @@
 # Journal CLI
 
 ## A CLI to write journal for you and save it to a Notion database!
+
+![image](https://user-images.githubusercontent.com/12975481/159121193-9ffe743c-352e-48c4-b43b-a577190ae658.png)
+
+### Copy this notion template to your notion
+
+[https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d](https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d)
+
+### Connect to notion `journal connect`
+
+![image](https://user-images.githubusercontent.com/12975481/159121300-df0be909-9ec9-4ab8-82e1-ef669eee0d20.png)
+
+![image](https://user-images.githubusercontent.com/12975481/159121314-9396644f-e288-4334-8640-1317af6b671d.png)
+
+![image](https://user-images.githubusercontent.com/12975481/159121372-95cf0824-7cba-40b9-a876-7eea6737b51b.png)
+
+![image](https://user-images.githubusercontent.com/12975481/159121402-31dac731-6139-41af-a8a5-d4653b5ae395.png)
+
+### Write journal every day using `journal write`
+
+![image](https://user-images.githubusercontent.com/12975481/159121444-939ed87b-1ae1-412d-955e-c8bc1a8327bb.png)
+
+![image](https://user-images.githubusercontent.com/12975481/159121477-b0809f0b-205c-449c-8239-54d984986350.png)
+
+![image](https://user-images.githubusercontent.com/12975481/159121481-fa9020b0-aff2-4449-9df7-af869410461a.png)
