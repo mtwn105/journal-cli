@@ -289,20 +289,24 @@ async function connectToNotion() {
   const spinner = createSpinner("Connecting to notion...").start();
 
   if (token.token) {
-    // write a new token
-    netrc.update("journal-cli", {
-      token: token.token,
-    });
-
     // Try connecting to notion
     try {
       const valid = await validateConnection(token.token);
 
       if (valid) {
+        // write a new token
+        netrc.update("journal-cli", {
+          token: token.token,
+        });
+
         spinner.success({ text: `Successfully Connected to notion!` });
       } else {
         spinner.stop();
-        console.log(chalk.red("\nError while connecting to notion"));
+        console.log(
+          chalk.red(
+            "\nYou haven't selected correct database for journal. Try connecting again with `Journal` page copied earlier."
+          )
+        );
         process.exit(1);
       }
     } catch (err) {
