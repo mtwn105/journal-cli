@@ -268,13 +268,13 @@ async function saveToNotion(token) {
 async function connectToNotion() {
   console.log(
     chalk.green(
-      "\nStep 1 - Copy this page template to your notion: https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d"
+      "\nStep 1 - Copy this page template to your notion: https://amit-wani.notion.site/amit-wani/Journal-a19377f6b17d47768e03d4ffe62a030d"
     )
   );
 
   console.log(
     chalk.green(
-      "\nStep 2 - Open this link and give access to Journal CLI for this page: https://api.notion.com/v1/oauth/authorize?owner=user&client_id=14c758e3-a8d2-48c3-9d8e-778c93c4dbe3&redirect_uri=http://localhost:3000/auth/notion/callback&response_type=code"
+      "\nStep 2 - Open this link and give access to Journal CLI for this page: https://api.notion.com/v1/oauth/authorize?owner=user&client_id=14c758e3-a8d2-48c3-9d8e-778c93c4dbe3&redirect_uri=https://journal-notion-handler.fly.dev/auth/notion/callback&response_type=code"
     )
   );
 
