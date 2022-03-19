@@ -1,0 +1,20 @@
+{
+  "name": "journal-cli",
+  "version": "1.0.0",
+  "description": "Write Journal to your Notion using CLI",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "journal",
+    "cli",
+    "notion",
+    "diary",
+    "notes",
+    "note"
+  ],
+  "author": "mtwn105",
+  "license": "MIT"
+}
