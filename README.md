@@ -14,7 +14,7 @@ Start using by `journal connect`
 
 Help Command `journal --help`
 
-### Copy this notion template to your notion
+### Duplicate this page to your notion
 
 [https://amit-wani.notion.site/amit-wani/Journal-a19377f6b17d47768e03d4ffe62a030d](https://amit-wani.notion.site/amit-wani/Journal-a19377f6b17d47768e03d4ffe62a030d)
 
