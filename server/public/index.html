@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Journal CLI Notion</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1>Journal CLI Notion</h1>
+    <h2>Copy & paste this token in your Journal CLI</h2>
+
+    <input disabled placeholder="Token" type="text" name="token" id="token" />
+
+    <button id="copy" onclick="copy()">Copy Token</button>
+
+    <p id="success" style="display: none">Copied to clipboard!</p>
+
+    <script src="index.js"></script>
+  </body>
+</html>
