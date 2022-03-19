@@ -6,6 +6,14 @@
 
 ![image](https://user-images.githubusercontent.com/12975481/159121193-9ffe743c-352e-48c4-b43b-a577190ae658.png)
 
+### Installation
+
+Run `npm i -g journal-notion-cli` to install the cli.
+
+Start using by `journal connect`
+
+Help Command `journal --help`
+
 ### Copy this notion template to your notion
 
 [https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d](https://www.notion.so/Journal-a19377f6b17d47768e03d4ffe62a030d)
