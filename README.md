@@ -1,5 +1,7 @@
 # Journal CLI
 
+### [NPM Link](https://www.npmjs.com/package/journal-notion-cli)
+
 ## A CLI to write journal for you and save it to a Notion database!
 
 ![image](https://user-images.githubusercontent.com/12975481/159121193-9ffe743c-352e-48c4-b43b-a577190ae658.png)
