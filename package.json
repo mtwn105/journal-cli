@@ -1,8 +1,9 @@
 {
-  "name": "journal-cli",
+  "name": "journal-notion-cli",
   "version": "1.0.0",
   "description": "Write Journal to your Notion using CLI",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "run": "node index.js",
     "dev": "nodemon index.js"
@@ -13,8 +14,34 @@
     "notion",
     "diary",
     "notes",
-    "note"
+    "note",
+    "blog",
+    "writing",
+    "blogging"
   ],
+  "bin": {
+    "journal": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtwn105/journal-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtwn105/journal-cli/issues"
+  },
+  "homepage": "https://github.com/mtwn105/journal-cli",
   "author": "mtwn105",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "chalk": "^5.0.1",
+    "chalk-animation": "^1.3.0",
+    "dotenv": "^16.0.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.1",
+    "nanospinner": "^1.0.0",
+    "node-netrc": "^0.1.0",
+    "yargs": "^17.3.1"
+  }
 }
