@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/12975481/159121193-9ffe743c-352e-48c4-b43b-a577190ae658.png)
 
+### Demo
+
+![demo](https://media4.giphy.com/media/ZffqaXilCMlfEKH3ZF/giphy.gif?cid=790b7611cf19c040cd8a20ff11c61e62745969f1cccfbc7b&rid=giphy.gif&ct=g)
+
 ### Installation
 
 Run `npm i -g journal-notion-cli` to install the cli.
@@ -37,3 +41,6 @@ Help Command `journal --help`
 ![image](https://user-images.githubusercontent.com/12975481/159121477-b0809f0b-205c-449c-8239-54d984986350.png)
 
 ![image](https://user-images.githubusercontent.com/12975481/159121481-fa9020b0-aff2-4449-9df7-af869410461a.png)
+
+### Buy me a coffee
+[coffee](https://www.buymeacoffee.com/mtwn105)
