@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/12975481/159121193-9ffe743c-352e-48c4-b43b-a577190ae658.png)
 
+### Demo
+
+![demo](https://media4.giphy.com/media/ZffqaXilCMlfEKH3ZF/giphy.gif?cid=790b7611cf19c040cd8a20ff11c61e62745969f1cccfbc7b&rid=giphy.gif&ct=g)
+
 ### Installation
 
 Run `npm i -g journal-notion-cli` to install the cli.
